@@ -34,12 +34,12 @@ h3{
 .top-cloud{
     position: absolute;
     top:50px ;
-    right: 350px;
+    right: 300px;
 }
 .bottom-cloud{
     position: absolute;
     bottom: 350px;
-    left: 300px;
+    left: 250px;
 }
 .design-image{
     width: 25%;
